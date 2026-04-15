@@ -33,6 +33,7 @@ node scripts/scrape-bulletin.mjs --list-schools
 
 # List all subjects for a specific school
 node scripts/scrape-bulletin.mjs --list-subjects
+```
 
 📂 Output
 
